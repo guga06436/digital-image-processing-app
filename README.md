@@ -38,6 +38,6 @@ This project is an image processing tool that implements various filters for ima
 
 ## 📁 File Structure
 
-- `digital_image_processing_notebook.ipynb`: Contains interactive example usage of the image processing tool
+- `digital_image_processing.ipynb`: Contains interactive example usage of the image processing tool
 - `kernels/`: Directory containing sample kernel files for correlation filters
 - `images/`: Directory containing sample image files for pontual and correlation filters
