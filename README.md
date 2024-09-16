@@ -20,6 +20,12 @@ This project is an image processing tool that implements various filters for ima
 
 ## 🚀 Getting Started
 
+### You can use it on Colab
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guga06436/digital-image-processing-app/blob/main/digital_image_processing.ipynb)
+
+Simply click the link above to open the notebook directly in Google Colab, where you can test and modify the code in an interactive environment.
+
 ### Prerequisites
 
 - Python 3.x
